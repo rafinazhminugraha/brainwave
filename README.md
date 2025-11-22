@@ -19,4 +19,4 @@ A modern, high-performance landing page for an AI application built using **Reac
 | 🎭 **Framer Motion** | (Optional: Jika kamu pakai untuk animasi) Animation library |
 
 ---
-[**🔗 View Live Demo**]
+[**🔗 View Live Demo**](https://brainwave-one-lac.vercel.app/)
