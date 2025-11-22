@@ -16,7 +16,7 @@ A modern, high-performance landing page for an AI application built using **Reac
 | ⚛️ **React** | Component-based UI library for structure |
 | ⚡ **Vite** | Next-generation frontend tooling for speed |
 | 🎨 **Tailwind CSS** | Utility-first CSS framework for styling |
-| 🎭 **Framer Motion** | (Optional: Jika kamu pakai untuk animasi) Animation library |
+| 🎭 **Framer Motion** | Animation library |
 
 ---
 [**🔗 View Live Demo**](https://brainwave-one-lac.vercel.app/)
